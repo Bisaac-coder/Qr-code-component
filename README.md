@@ -130,7 +130,7 @@ able to debug and filter them out.
 
 For now i would continue to develop
 in my html and css aspect to get more experience
-as a newbie.
+as a newbie. 
 
 
 ### Useful resources
