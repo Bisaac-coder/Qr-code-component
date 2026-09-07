@@ -29,7 +29,7 @@ by Bisaac-coder.
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Bisaac-coder/Qr-code-component)
-- Live Site URL: [ hhh](https://your-live-site-url.com)
+- Live Site URL: [Bisaac-coder live site](https://bisaac-coder.github.io/Qr-code-component/)
 
 ## My process
 
